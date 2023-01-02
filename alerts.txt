@@ -1,0 +1,4 @@
+Weather condition: temperature less than 14 met in location: Lahore
+Weather condition: temperature higher than 2 met in location: Seoul
+Weather condition: temperature higher than 2 met in location: Seoul
+Weather condition: temperature higher than 2 met in location: Seoul
